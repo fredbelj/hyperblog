@@ -1,3 +1,7 @@
 Esta es la historia de freddy
 
 mi primer archivo de ejercicio git
+
+Hoy hablaremos de su vida y obra maestra
+
+modificacin despues de un checkout
