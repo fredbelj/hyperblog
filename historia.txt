@@ -2,6 +2,8 @@ Esta es la historia de freddy
 
 mi primer archivo de ejercicio git
 
+FredyUbuntu tiene 44 años y nacio en interet
+
 Hoy hablaremos de su vida y obra maestra
 
 modificacin despues de un checkoutg
