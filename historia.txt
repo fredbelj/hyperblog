@@ -4,6 +4,8 @@ mi primer archivo de ejercicio git
 
 FredyUbuntu tiene 44 años y nacio en interet
 
+Nuevo mensaje despues de formateo y instalacion de Ubunto por segunda vez
+
 Hoy hablaremos de su vida y obra maestra
 
 modificacin despues de un checkoutg
